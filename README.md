@@ -14,4 +14,4 @@
 <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Rafa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
-![snake gif](https://github.com/Gabriel3410/Gabriel3410/blob/output/github-contribution-grid-snake.svg)
+![snake eif](https://github.com/Gabriel3410/Gabriel3410/blob/output/github-contribution-grid-snake.svg)
