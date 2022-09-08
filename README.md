@@ -1,4 +1,4 @@
-### Olá! eu sou Gabriel Soares👋
+### Olá! eu sou Gabriel Soares.👋
 
 - 🌱 Estou estudando atualmente programação no colégio santo inácio
 
